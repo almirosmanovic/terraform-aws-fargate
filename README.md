@@ -4,6 +4,8 @@
 
 > This is a collaborative attempt to provide alternative deployment target to Heroku, by using Fargate instead. Since deploying to AWS in general is much more complex to set up compared to Heroku, this repository's goal is to provide a simple, easy to use setup & deployment pipeline to make it easier for general use.
 
+Forked from strvcom
+
 ## About
 
 The goal of this effort is to provide tools/configuration files/scripts/other to make it easy to prepare AWS infrastructure for deploying Docker containers to Fargate. At the same time it should not get in the way to allow the deployment runtime to utilise other AWS resources relatively easily.
